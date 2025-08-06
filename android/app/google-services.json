@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934357128250",
+    "project_id": "dzshoping-c7691",
+    "storage_bucket": "dzshoping-c7691.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934357128250:android:127820c6f03b142d181103",
+        "android_client_info": {
+          "package_name": "com.dzshoping.dzshoping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKl5JAqU-uBqeHw6K81gN22844_NmIYuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
