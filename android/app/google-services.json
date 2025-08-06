@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "934357128250",
-    "project_id": "dzshoping-c7691",
-    "storage_bucket": "dzshoping-c7691.firebasestorage.app"
+    "project_number": "444866312695",
+    "project_id": "ecommerce-bde6e",
+    "storage_bucket": "ecommerce-bde6e.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:934357128250:android:127820c6f03b142d181103",
+        "mobilesdk_app_id": "1:444866312695:android:c337ed4d499fad1ce096f2",
         "android_client_info": {
-          "package_name": "com.dzshoping.dzshoping"
+          "package_name": "com.ecommerce.ecommerce"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDKl5JAqU-uBqeHw6K81gN22844_NmIYuQ"
+          "current_key": "AIzaSyCIY6EusoCHw8wNW1Hl1fkfYCNjNpD2KLo"
         }
       ],
       "services": {

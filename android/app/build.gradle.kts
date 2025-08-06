@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.dzshoping.dzshoping"
+    namespace = "com.ecommerce.ecommerce"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         // ✅ تم توحيد الـ Application ID مع الـ namespace
-        applicationId = "com.dzshoping.dzshoping"
+        applicationId = "com.ecommerce.ecommerce"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = 1

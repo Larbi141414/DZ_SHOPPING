@@ -7,7 +7,7 @@ class AdminDashboard extends StatelessWidget {
   final FirebaseFirestore _db = FirebaseFirestore.instance;
 
   // ✅ UID الأدمن الذي يملك صلاحية الدخول
-  final String adminUid = '6LFUmRCvHYWLk9jhcJQgac3cydq1';
+  final String adminUid = '3bH26n7Y0mRekY6hXsBzpVQadGE3';
 
   void updateUserBalance(String userId, double newBalance, BuildContext context) async {
     await _db.collection('users').doc(userId).update({'balance': newBalance});
